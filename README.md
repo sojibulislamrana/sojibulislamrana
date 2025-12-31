@@ -1,12 +1,33 @@
-<h1> Md. Sojibul Islam Rana </h1>
+<h1 align="center">Md. Sojibul Islam Rana</h1>
 
-**`Digital Craftsman (Apps developer/ ML & AI / DevOps)`**
+<p align="center">
+  <b>Terminal-First MERN & Next.js Developer</b><br/>
+  React • Next.js • Node.js • MongoDB • Flutter • AI/ML • DSA
+</p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=radiumSodium&style=flat" alt="radiumsodium" /> </p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=radiumSodium&style=flat" alt="radiumsodium" />
+</p>
 
-I'm an indie developer who use flutter to make cross platform apps from the ground up. I also do machine learning and Artificial intelligence as I have a keen interest on these sectors. Along with that I make videos on various topics mostly on ML & AI
+---
 
-### ⚙️ &nbsp;GitHub Analytics
+### 👋 About Me
+
+I’m a **terminal-first developer** who loves building software from the ground up — not just using frameworks, but understanding **how and why they work**.
+
+My primary focus is on **MERN stack and Next.js**, building scalable web applications with clean architecture, performance in mind, and developer experience at the core. I spend most of my time inside **Linux, Neovim, tmux**, and the terminal.
+
+Alongside web development:
+- I build **cross-platform apps with Flutter**
+- I work on **AI & Machine Learning projects**
+- I actively practice **Data Structures & Algorithms**
+- I create **technical videos** explaining ML, AI, and system concepts
+
+I’m deeply inspired by **open-source culture** and aim to build software that has real-world impact.
+
+---
+
+## ⚙️ GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/radiumSodium">
@@ -14,24 +35,63 @@ I'm an indie developer who use flutter to make cross platform apps from the grou
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=radiumSodium&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<hr>
 
-### Languages
+---
 
-![C](https://img.shields.io/badge/-C-4e4e4c?&logo=C) ![C++](https://img.shields.io/badge/-C++-skyblue?&logo=c%2b%2b&logoColor=00599C) ![Python](https://img.shields.io/badge/-Python-ffd343?&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-212121?&logo=JavaScript) ![R](https://img.shields.io/badge/-R-blue?&logo=R) ![SQL](https://img.shields.io/badge/-SQL-1a4e4c?&logo=MySQL) ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift) ![Dart](https://img.shields.io/badge/-Dart-blue?&logo=Dart)
+## 🧠 Languages
 
-### Technologies
+![C](https://img.shields.io/badge/-C-4e4e4c?&logo=C)
+![C++](https://img.shields.io/badge/-C++-skyblue?&logo=c%2b%2b&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python-ffd343?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-212121?&logo=JavaScript)
+![Dart](https://img.shields.io/badge/-Dart-blue?&logo=Dart)
+![SQL](https://img.shields.io/badge/-SQL-1a4e4c?&logo=MySQL)
 
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=MicrosoftAzure&logoColor=F90) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000?&logo=Tensorflow) ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=skyblue) ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino&logoColor=cyan)
+---
 
-### 🤝🏻 &nbsp;Connect with Me
+## 🛠️ Technologies & Tools
+
+### Web & Backend
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=skyblue)
+
+### AI / ML
+![TensorFlow](https://img.shields.io/badge/-Tensorflow-000?&logo=Tensorflow)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+
+### Dev & System
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=Neovim)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/radiumsodium/"><img src="https://img.shields.io/badge/-Md.%20Sojibul%20Islam%20Rana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:si.radiumsodium@gmail.com"><img src="https://img.shields.io/badge/-si.radiumsodium@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/sir4n4/"><img src="https://img.shields.io/badge/-Md. Sojibul Islam Rana-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://twitter.com/_sir4n4"><img src="https://img.shields.io/badge/-Sojibul Islam Rana-212121?style=flat&logo=X&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCGV_UOesD1noUN7q6OS6RMw"><img src="https://img.shields.io/badge/-Sojibul Islam Rana-FF0000?style=flat&logo=YouTube&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/radiumsodium/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sojibulislamrana.dev@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/sir4n4/">
+  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/>
+</a>
+<a href="https://twitter.com/_sir4n4">
+  <img src="https://img.shields.io/badge/-X-212121?style=flat&logo=X&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/channel/UCGV_UOesD1noUN7q6OS6RMw">
+  <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -40,16 +100,21 @@ I'm an indie developer who use flutter to make cross platform apps from the grou
 
 <table>
   <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://youtu.be/pOrpung-s4E"><img width="140px" src="https://i.ytimg.com/vi/pOrpung-s4E/mqdefault.jpg"></a></td>
-<td><a href="https://youtu.be/pOrpung-s4E">Anatomy of Matplotlib | Sojibul Islam Rana | Dev Change Makers</a><br/>Jan 19, 2024</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=kViGwIcuwI0"><img width="140px" src="https://i.ytimg.com/vi/kViGwIcuwI0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kViGwIcuwI0">Build your own ChatGPT using hugging face api.</a><br/>Mar 21, 2024</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=t958xTS_RSU"><img width="140px" src="https://i.ytimg.com/vi/t958xTS_RSU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=t958xTS_RSU">Build your own AI image generator like stable diffusion</a><br/>Dec 9, 2023</td></tr>
-
+<!-- YOUTUBE:START -->
+<tr>
+  <td><a href="https://youtu.be/pOrpung-s4E"><img width="140px" src="https://i.ytimg.com/vi/pOrpung-s4E/mqdefault.jpg"></a></td>
+  <td><a href="https://youtu.be/pOrpung-s4E">Anatomy of Matplotlib | Sojibul Islam Rana | Dev Change Makers</a><br/>Jan 19, 2024</td>
+</tr>
+<tr>
+  <td><a href="https://www.youtube.com/watch?v=kViGwIcuwI0"><img width="140px" src="https://i.ytimg.com/vi/kViGwIcuwI0/mqdefault.jpg"></a></td>
+  <td><a href="https://www.youtube.com/watch?v=kViGwIcuwI0">Build your own ChatGPT using Hugging Face API</a><br/>Mar 21, 2024</td>
+</tr>
+<tr>
+  <td><a href="https://www.youtube.com/watch?v=t958xTS_RSU"><img width="140px" src="https://i.ytimg.com/vi/t958xTS_RSU/mqdefault.jpg"></a></td>
+  <td><a href="https://www.youtube.com/watch?v=t958xTS_RSU">Build your own AI Image Generator like Stable Diffusion</a><br/>Dec 9, 2023</td>
+</tr>
 <!-- YOUTUBE:END -->
-</tbody>
-  </table>
+  </tbody>
+</table>
 
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCGV_UOesD1noUN7q6OS6RMw?sub_confirmation=1)
-
+[![Subscribe](https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGV_UOesD1noUN7q6OS6RMw?sub_confirmation=1)
