@@ -14,18 +14,16 @@
 
 ### 👋 About Me
 
-I’m a **terminal-first developer** who loves building software from the ground up — not just using frameworks, but understanding **how and why they work**.
+I’m a **terminal-first MERN & Next.js developer** who enjoys building scalable web applications with a deep understanding of how systems work under the hood.
 
-My primary focus is on **MERN stack and Next.js**, building scalable web applications with clean architecture, performance in mind, and developer experience at the core. I spend most of my time inside **Linux, Neovim, tmux**, and the terminal.
+My primary focus is on:
+- **MERN stack** (MongoDB, Express, React, Node.js)
+- **Next.js** for performance-driven frontend architecture
+- Writing clean, maintainable code with strong fundamentals
 
-Alongside web development:
-- I build **cross-platform apps with Flutter**
-- I work on **AI & Machine Learning projects**
-- I actively practice **Data Structures & Algorithms**
-- I create **technical videos** explaining ML, AI, and system concepts
+Beyond web development, I also work with **Flutter**, explore **AI & Machine Learning**, and actively practice **Data Structures & Algorithms**.
 
-I’m deeply inspired by **open-source culture** and aim to build software that has real-world impact.
-
+I live inside **Linux, Neovim, tmux**, and strongly believe in **open-source and long-term software craftsmanship**.
 ---
 
 ## ⚙️ GitHub Analytics
