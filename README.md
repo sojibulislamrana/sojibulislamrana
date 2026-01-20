@@ -30,8 +30,8 @@ I live inside **Linux, Neovim, tmux**, and strongly believe in **open-source and
 
 <p align="center">
 <a href="https://github.com/radiumSodium">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=radiumSodium&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=radiumSodium&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sojibulislamrana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sojibulislamrana&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
