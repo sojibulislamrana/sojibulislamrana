@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Md. Sojibul Islam Rana</h1> -->
-<img src="https://capsule-render.vercel.app/api?type=blur&height=232&color=gradient&text=Sojibul%20Islam%20Rana&textBg=false">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sojibul%20Islam%20Rana&reversal=true&textBg=false&fontAlign=50&fontAlignY=40&animation=twinkling&desc=%20%20I%20dont%20vide,%20I%20code,%20I%20Learn,%20Everyday">
 
 <p align="center">
   <b>Terminal-First MERN & Next.js Developer</b><br/>
