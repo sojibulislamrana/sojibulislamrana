@@ -1,99 +1,150 @@
-<!-- <h1 align="center">Md. Sojibul Islam Rana</h1> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sojibul%20Islam%20Rana&reversal=true&textBg=false&fontAlign=50&fontAlignY=40&animation=twinkling&desc=%20%20I%20dont%20vide,%20I%20code,%20I%20Learn,%20Everyday">
 
-<p align="center">
-  <b>Terminal-First MERN & Next.js Developer</b><br/>
-  React • Next.js • Node.js • MongoDB • Flutter • AI/ML • DSA
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sojibul%20Islam%20Rana&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=radiumSodium&style=flat" alt="radiumsodium" />
-</p>
+### Software Engineer · Full-Stack Development · Backend & Developer Tools
 
----
+**Building useful software, exploring systems, and learning how things work under the hood.**
 
-### 👋 About Me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sojibulislamrana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sojibulislamrana/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGV_UOesD1noUN7q6OS6RMw)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sojibulislamrana.dev@gmail.com)
 
-I’m a **terminal-first MERN & Next.js developer** who enjoys building scalable web applications with a deep understanding of how systems work under the hood.
+![Profile Views](https://komarev.com/ghpvc/?username=radiumSodium&style=flat-square&color=blueviolet)
 
-My primary focus is on:
-- **MERN stack** (MongoDB, Express, React, Node.js)
-- **Next.js** for performance-driven frontend architecture
-- Writing clean, maintainable code with strong fundamentals
+</div>
 
-Beyond web development, I also work with **Flutter**, explore **AI & Machine Learning**, and actively practice **Data Structures & Algorithms**.
 
-I live inside **Linux, Neovim, tmux**, and strongly believe in **open-source and long-term software craftsmanship**.
----
+## About Me
 
-## ⚙️ GitHub Analytics
+- 🎓 CSE undergraduate at **Mymensingh Engineering College, Bangladesh**.
+- 🌐 Building full-stack applications with **React, Next.js, TypeScript, and Node.js**.
+- 🧠 Exploring backend engineering, AI systems, and evidence-grounded **Retrieval-Augmented Generation (RAG)**.
+- 🐧 Passionate about Linux, open source, terminal-first workflows, Neovim, and Emacs.
+- ☸️ Contributed to **Kubernetes documentation localization in Bengali**.
+- 📚 Strengthening my fundamentals in data structures, algorithms, software design, and system internals.
+- 🎯 My goal is to build reliable, useful software and grow into an engineer who understands more than just the framework.
 
-<p align="center">
-<a href="https://github.com/radiumSodium">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sojibulislamrana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sojibulislamrana&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+> *Learn the fundamentals. Build real things. Understand what happens underneath.*
 
 ---
 
-## 🧠 Languages
+## 🛠️ Tech Stack
 
-![C](https://img.shields.io/badge/-C-4e4e4c?&logo=C)
-![C++](https://img.shields.io/badge/-C++-skyblue?&logo=c%2b%2b&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-ffd343?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-212121?&logo=JavaScript)
-![Dart](https://img.shields.io/badge/-Dart-blue?&logo=Dart)
-![SQL](https://img.shields.io/badge/-SQL-1a4e4c?&logo=MySQL)
+<div align="center">
 
----
+### Languages
 
-## 🛠️ Technologies & Tools
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-### Web & Backend
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
+### Frontend & Backend
 
-### Mobile
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=skyblue)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/-Tensorflow-000?&logo=Tensorflow)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+### AI, Systems & Tools
 
-### Dev & System
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=Neovim)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Emacs](https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=gnuemacs&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-Research-blue?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/radiumsodium/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-</a>
-<a href="mailto:sojibulislamrana.dev@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/>
-</a>
-<a href="https://www.facebook.com/sir4n4/">
-  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/>
-</a>
-<a href="https://twitter.com/_sir4n4">
-  <img src="https://img.shields.io/badge/-X-212121?style=flat&logo=X&logoColor=white"/>
-</a>
-<a href="https://www.youtube.com/channel/UCGV_UOesD1noUN7q6OS6RMw">
-  <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"/>
-</a>
-</p>
+</div>
 
 ---
+
+## 🔥 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 [Live Doc](https://github.com/sojibulislamrana/live-docs)
+
+A collaborative document editor inspired by Google Docs, focused on real-time teamwork and document management.
+
+**Highlights**
+- Real-time collaborative editing
+- Shared document workspaces
+- Modern web application architecture
+
+**Stack:** Next.js · React · TypeScript · Convex · Clerk
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [HalluFix](https://github.com/sojibulislamrana/Hallufix-An-Evidence-First-Hybrid-RAG-Framework-for-Mitigating-AI-Hallucination)
+
+An evidence-first hybrid RAG framework designed to reduce unsupported AI answers through retrieval and verification.
+
+**Highlights**
+- Hybrid retrieval and reranking
+- Evidence and claim verification
+- Abstention when evidence is insufficient
+
+**Stack:** Python · FastAPI · FAISS · NLI · Next.js
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍎 [One Thing — macOS Menu Bar App](https://github.com/sojibulislamrana/OneThing-MacOS-menubar-app)
+
+A lightweight native macOS utility for keeping a single priority or note accessible from the menu bar.
+
+**Stack:** Swift · macOS · AppKit/SwiftUI
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ [Awesome CLI Task Manager](https://github.com/sojibulislamrana/awesome-cli-taskmgr)
+
+A keyboard-driven command-line task manager for organizing tasks, priorities, tags, and deadlines.
+
+**Stack:** JavaScript · Node.js · CLI
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 [Raylib Match-3 Game](https://github.com/sojibulislamrana/Raylib-match-3-game)
+
+A native game project exploring C programming, graphics, and game logic using Raylib.
+
+**Stack:** C · Raylib
+
+</td>
+<td width="50%" valign="top">
+
+### ☸️ [Kubernetes Website](https://github.com/kubernetes/website)
+
+Contributed to Kubernetes documentation localization, helping make technical content more accessible to Bengali-speaking developers.
+
+**Focus:** Open source · Documentation · Bengali localization
+
+</td>
+</tr>
+</table>
+
+
 
 ## 📺 Latest YouTube Videos
 
@@ -116,4 +167,50 @@ I live inside **Linux, Neovim, tmux**, and strongly believe in **open-source and
   </tbody>
 </table>
 
-[![Subscribe](https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGV_UOesD1noUN7q6OS6RMw?sub_confirmation=1)
+<div align="center">
+
+[![Subscribe on YouTube](https://img.shields.io/badge/Subscribe_to_my_channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGV_UOesD1noUN7q6OS6RMw)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sojibulislamrana&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojibulislamrana&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sojibulislamrana&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 🎓 Learning & Certifications
+
+- 🎓 [CS50: Introduction to Computer Science — Harvard University](https://cs50.harvard.edu/x/)
+- 🤖 Machine Learning Specialization — Andrew Ng / DeepLearning.AI
+- 🌐 Complete Web Development Course — Programming Hero, Batch 12
+
+---
+
+## 🌱 Beyond Coding
+
+Outside of building software, I enjoy exploring developer tools, learning computer science fundamentals, playing guitar, and creating educational content.
+
+- 📺 [YouTube](https://www.youtube.com/channel/UCGV_UOesD1noUN7q6OS6RMw)
+- 📘 [Facebook](https://www.facebook.com/sir4n4/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sojibulislamrana/)
+- 🌐 [Portfolio](https://portfolio-v1-pi-flame.vercel.app)
+- 📧 [Email me](mailto:sojibulislamrana.dev@gmail.com)
+
+<div align="center">
+
+### 💬 *“First, understand the problem. Then, build the right solution.”*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+
+</div>
