@@ -2,9 +2,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sojibul%20Islam%20Rana&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-### Software Engineer · Full-Stack Development · Backend & Developer Tools
-
-**Building useful software, exploring systems, and learning how things work under the hood.**
+## Software Engineer | Full-Stack & Systems
+**Building practical software with strong fundamentals, from modern web applications to the systems underneath.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sojibulislamrana)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sojibulislamrana/)
