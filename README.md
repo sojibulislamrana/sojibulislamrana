@@ -1,8 +1,8 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sojibul%20Islam%20Rana&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
 
 ## Software Engineer | Full-Stack & Systems
+
 **Building practical software with strong fundamentals, from modern web applications to the systems underneath.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sojibulislamrana)
@@ -14,7 +14,6 @@
 
 </div>
 
- 
 ## About Me
 
 I'm a Computer Science and Engineering undergraduate, interested in building reliable software and understanding the systems behind it.
@@ -26,7 +25,8 @@ I'm a Computer Science and Engineering undergraduate, interested in building rel
 - **Computer Science Fundamentals** — Strengthening my knowledge of data structures, algorithms, software design, and system internals.
 - **Long-Term Goal** — Becoming a well-rounded software engineer who understands not only how to use frameworks, but also how things work underneath.
 
-> *Learn the fundamentals. Build real things. Understand what happens underneath.*
+> _Learn the fundamentals. Build real things. Understand what happens underneath._
+
 ---
 
 ## 🛠️ Tech Stack
@@ -79,6 +79,7 @@ I'm a Computer Science and Engineering undergraduate, interested in building rel
 A collaborative document editor inspired by Google Docs, focused on real-time teamwork and document management.
 
 **Highlights**
+
 - Real-time collaborative editing
 - Shared document workspaces
 - Modern web application architecture
@@ -88,11 +89,12 @@ A collaborative document editor inspired by Google Docs, focused on real-time te
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [HalluFix](https://github.com/sojibulislamrana/Hallufix-An-Evidence-First-Hybrid-RAG-Framework-for-Mitigating-AI-Hallucination)
+### <img src="logo/hallufix.png" width="32px"/> [HalluFix](https://github.com/sojibulislamrana/Hallufix-An-Evidence-First-Hybrid-RAG-Framework-for-Mitigating-AI-Hallucination)
 
 An evidence-first hybrid RAG framework designed to reduce unsupported AI answers through retrieval and verification.
 
 **Highlights**
+
 - Hybrid retrieval and reranking
 - Evidence and claim verification
 - Abstention when evidence is insufficient
@@ -104,7 +106,7 @@ An evidence-first hybrid RAG framework designed to reduce unsupported AI answers
 <tr>
 <td width="50%" valign="top">
 
-### 🍎 [One Thing — macOS Menu Bar App](https://github.com/sojibulislamrana/OneThing-MacOS-menubar-app)
+### <img src="logo/onething.png" width="32px"/> [One Thing — macOS Menu Bar App](https://github.com/sojibulislamrana/OneThing-MacOS-menubar-app)
 
 A lightweight native macOS utility for keeping a single priority or note accessible from the menu bar.
 
@@ -133,7 +135,7 @@ A native game project exploring C programming, graphics, and game logic using Ra
 </td>
 <td width="50%" valign="top">
 
-### ☸️ [Kubernetes Website](https://github.com/kubernetes/website)
+### <img src="logo/kubernetes.png" width="32px"> [Kubernetes Website](https://github.com/kubernetes/website)
 
 Contributed to Kubernetes documentation localization, helping make technical content more accessible to Bengali-speaking developers.
 
@@ -143,9 +145,8 @@ Contributed to Kubernetes documentation localization, helping make technical con
 </tr>
 </table>
 
+## Latest YouTube Videos
 
-
-## 📺 Latest YouTube Videos
 <div align="center"> 
 <table>
   <tbody>
@@ -175,7 +176,7 @@ Contributed to Kubernetes documentation localization, helping make technical con
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
