@@ -74,7 +74,7 @@ I'm a Computer Science and Engineering undergraduate, interested in building rel
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://github.com/sojibulislamrana/live-docs/blob/main/public/logo.svg" width="32px"/> [Live Doc](https://github.com/sojibulislamrana/live-docs)
+### <img src="https://github.com/sojibulislamrana/live-docs/blob/main/public/logo.svg" width="24px"/> [Live Doc](https://github.com/sojibulislamrana/live-docs)
 
 A collaborative document editor inspired by Google Docs, focused on real-time teamwork and document management.
 
@@ -89,7 +89,7 @@ A collaborative document editor inspired by Google Docs, focused on real-time te
 </td>
 <td width="50%" valign="top">
 
-### <img src="logo/hallufix.png" width="32px"/> [HalluFix](https://github.com/sojibulislamrana/Hallufix-An-Evidence-First-Hybrid-RAG-Framework-for-Mitigating-AI-Hallucination)
+### <img src="logo/hallufix.png" width="24px"/> [HalluFix](https://github.com/sojibulislamrana/Hallufix-An-Evidence-First-Hybrid-RAG-Framework-for-Mitigating-AI-Hallucination)
 
 An evidence-first hybrid RAG framework designed to reduce unsupported AI answers through retrieval and verification.
 
@@ -106,7 +106,7 @@ An evidence-first hybrid RAG framework designed to reduce unsupported AI answers
 <tr>
 <td width="50%" valign="top">
 
-### <img src="logo/onething.png" width="32px"/> [One Thing — macOS Menu Bar App](https://github.com/sojibulislamrana/OneThing-MacOS-menubar-app)
+### <img src="logo/onething.png" width="24px"/> [One Thing — macOS Menu Bar App](https://github.com/sojibulislamrana/OneThing-MacOS-menubar-app)
 
 A lightweight native macOS utility for keeping a single priority or note accessible from the menu bar.
 
@@ -135,7 +135,7 @@ A native game project exploring C programming, graphics, and game logic using Ra
 </td>
 <td width="50%" valign="top">
 
-### <img src="logo/kubernetes.png" width="32px"> [Kubernetes Website](https://github.com/kubernetes/website)
+### <img src="logo/kubernetes.png" width="24px"> [Kubernetes Website](https://github.com/kubernetes/website)
 
 Contributed to Kubernetes documentation localization, helping make technical content more accessible to Bengali-speaking developers.
 
