@@ -15,7 +15,7 @@
 
 </div>
 
-
+ 
 ## About Me
 
 - 🎓 CSE undergraduate at **Mymensingh Engineering College, Bangladesh**.
@@ -147,7 +147,7 @@ Contributed to Kubernetes documentation localization, helping make technical con
 
 
 ## 📺 Latest YouTube Videos
-
+<div align="center"> 
 <table>
   <tbody>
 <!-- YOUTUBE:START -->
@@ -172,6 +172,7 @@ Contributed to Kubernetes documentation localization, helping make technical con
 [![Subscribe on YouTube](https://img.shields.io/badge/Subscribe_to_my_channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGV_UOesD1noUN7q6OS6RMw)
 
 </div>
+</div>
 
 ---
 
@@ -189,27 +190,25 @@ Contributed to Kubernetes documentation localization, helping make technical con
 
 ---
 
-## 🎓 Learning & Certifications
+## Education & Learning
 
-- 🎓 [CS50: Introduction to Computer Science — Harvard University](https://cs50.harvard.edu/x/)
-- 🤖 Machine Learning Specialization — Andrew Ng / DeepLearning.AI
-- 🌐 Complete Web Development Course — Programming Hero, Batch 12
+- [CS50: Introduction to Computer Science — Harvard University](https://cs50.harvard.edu/x/)
+- Machine Learning Specialization — Andrew Ng / DeepLearning.AI
+- Complete Web Development Course — Programming Hero, Batch 12
 
 ---
 
-## 🌱 Beyond Coding
-
-Outside of building software, I enjoy exploring developer tools, learning computer science fundamentals, playing guitar, and creating educational content.
-
-- 📺 [YouTube](https://www.youtube.com/channel/UCGV_UOesD1noUN7q6OS6RMw)
-- 📘 [Facebook](https://www.facebook.com/sir4n4/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sojibulislamrana/)
-- 🌐 [Portfolio](https://portfolio-v1-pi-flame.vercel.app)
-- 📧 [Email me](mailto:sojibulislamrana.dev@gmail.com)
+## Connect
 
 <div align="center">
 
-### 💬 *“First, understand the problem. Then, build the right solution.”*
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sojibulislamrana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sojibulislamrana/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGV_UOesD1noUN7q6OS6RMw)
+[![Portfolio](https://img.shields.io/badge/Portfolio-526D82?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-v1-pi-flame.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sojibulislamrana.dev@gmail.com)
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
