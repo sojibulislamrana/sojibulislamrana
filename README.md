@@ -18,16 +18,16 @@
  
 ## About Me
 
-- 🎓 CSE undergraduate at **Mymensingh Engineering College, Bangladesh**.
-- 🌐 Building full-stack applications with **React, Next.js, TypeScript, and Node.js**.
-- 🧠 Exploring backend engineering, AI systems, and evidence-grounded **Retrieval-Augmented Generation (RAG)**.
-- 🐧 Passionate about Linux, open source, terminal-first workflows, Neovim, and Emacs.
-- ☸️ Contributed to **Kubernetes documentation localization in Bengali**.
-- 📚 Strengthening my fundamentals in data structures, algorithms, software design, and system internals.
-- 🎯 My goal is to build reliable, useful software and grow into an engineer who understands more than just the framework.
+I'm a Computer Science and Engineering undergraduate, interested in building reliable software and understanding the systems behind it.
+
+- **Full-Stack Development** — Building web applications with React, Next.js, TypeScript, and Node.js.
+- **Backend & AI Systems** — Exploring backend engineering, retrieval-augmented generation (RAG), and evidence verification.
+- **Linux & Developer Tools** — Passionate about open source, terminal-first workflows, Neovim, and Emacs.
+- **Open Source** — Contributed to Kubernetes documentation localization in Bengali.
+- **Computer Science Fundamentals** — Strengthening my knowledge of data structures, algorithms, software design, and system internals.
+- **Long-Term Goal** — Becoming a well-rounded software engineer who understands not only how to use frameworks, but also how things work underneath.
 
 > *Learn the fundamentals. Build real things. Understand what happens underneath.*
-
 ---
 
 ## 🛠️ Tech Stack
