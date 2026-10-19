@@ -74,7 +74,7 @@ I'm a Computer Science and Engineering undergraduate, interested in building rel
 <tr>
 <td width="50%" valign="top">
 
-### 📄 [Live Doc](https://github.com/sojibulislamrana/live-docs)
+### <img src="https://github.com/sojibulislamrana/live-docs/blob/main/public/logo.svg" width="32px"/> [Live Doc](https://github.com/sojibulislamrana/live-docs)
 
 A collaborative document editor inspired by Google Docs, focused on real-time teamwork and document management.
 
