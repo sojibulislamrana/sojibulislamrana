@@ -126,11 +126,11 @@ A keyboard-driven command-line task manager for organizing tasks, priorities, ta
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 [Raylib Match-3 Game](https://github.com/sojibulislamrana/Raylib-match-3-game)
+### <img src="logo/unishop.svg" width="24px"> [Unishop](https://github.com/sojibulislamrana/Raylib-match-3-game)
 
-A native game project exploring C programming, graphics, and game logic using Raylib.
+An ecommerce shop, a one stop solution for college and university going student
 
-**Stack:** C · Raylib
+**Stack:** Next.js · Node.js · MongoDB · Stripe
 
 </td>
 <td width="50%" valign="top">
