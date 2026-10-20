@@ -89,17 +89,17 @@ A collaborative document editor inspired by Google Docs, focused on real-time te
 </td>
 <td width="50%" valign="top">
 
-### <img src="logo/hallufix.png" width="24px"/> [HalluFix](https://github.com/sojibulislamrana/Hallufix-An-Evidence-First-Hybrid-RAG-Framework-for-Mitigating-AI-Hallucination)
+### <img src="logo/unishop.svg" width="24px"/> [UniShop](https://github.com/sojibulislamrana/unishop-c) · [Live Demo](https://unishop-client.vercel.app)
 
-An evidence-first hybrid RAG framework designed to reduce unsupported AI answers through retrieval and verification.
+A modern, minimalist e-commerce platform tailored for university students with direct-to-dorm delivery and instant online checkout.
 
 **Highlights**
 
-- Hybrid retrieval and reranking
-- Evidence and claim verification
-- Abstention when evidence is insufficient
+- Curated student catalog Persistent shopping cart
+- Live navbar badge promo codes & card payments
+- Store management dashboard with live revenue metrics & order status tracking
 
-**Stack:** Python · FastAPI · FAISS · NLI · Next.js
+**Stack:** Next.js 16 · Node.js · Express · MongoDB
 
 </td>
 </tr>
@@ -126,16 +126,16 @@ A keyboard-driven command-line task manager for organizing tasks, priorities, ta
 <tr>
 <td width="50%" valign="top">
 
-### <img src="logo/unishop.svg" width="24px"> [Unishop](https://github.com/sojibulislamrana/Raylib-match-3-game)
+### <img src="logo/hallufix.png" width="24px"/> [HalluFix](https://github.com/sojibulislamrana/Hallufix-An-Evidence-First-Hybrid-RAG-Framework-for-Mitigating-AI-Hallucination)
 
-An ecommerce shop, a one stop solution for college and university going student
+An evidence-first hybrid RAG framework designed to reduce unsupported AI answers through retrieval, verification, and abstention.
 
-**Stack:** Next.js · Node.js · MongoDB · Stripe
+**Stack:** Python · FastAPI · FAISS · NLI · Next.js
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="logo/kubernetes.png" width="24px"> [Kubernetes Website](https://github.com/kubernetes/website)
+### <img src="logo/kubernetes.png" width="24px"/> [Kubernetes Website](https://github.com/kubernetes/website)
 
 Contributed to Kubernetes documentation localization, helping make technical content more accessible to Bengali-speaking developers.
 
