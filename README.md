@@ -74,7 +74,7 @@ I'm a Computer Science and Engineering undergraduate, interested in building rel
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://github.com/sojibulislamrana/live-docs/blob/main/public/logo.svg" width="24px"/> [Live Doc](https://github.com/sojibulislamrana/live-docs)
+### <img src="https://github.com/sojibulislamrana/live-docs/blob/main/public/logo.svg" width="24px"/> [Live Doc](https://github.com/sojibulislamrana/live-docs) · [Live Demo](https://live-docs-mu-nine.vercel.app)
 
 A collaborative document editor inspired by Google Docs, focused on real-time teamwork and document management.
 
