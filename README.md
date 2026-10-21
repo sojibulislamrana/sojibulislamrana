@@ -7,6 +7,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sojibulislamrana)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sojibulislamrana/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-526D82?style=for-the-badge&logo=vercel&logoColor=white)](https://sojibulismarana.vercel.app)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGV_UOesD1noUN7q6OS6RMw)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sojibulislamrana.dev@gmail.com)
 
@@ -205,7 +206,7 @@ Contributed to Kubernetes documentation localization, helping make technical con
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sojibulislamrana)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sojibulislamrana/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGV_UOesD1noUN7q6OS6RMw)
-[![Portfolio](https://img.shields.io/badge/Portfolio-526D82?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-v1-pi-flame.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-526D82?style=flat-square&logo=vercel&logoColor=white)](https://sojibulismarana.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sojibulislamrana.dev@gmail.com)
 
 <br/>
